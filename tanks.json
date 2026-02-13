@@ -1617,6 +1617,14 @@
             "nation": "germany"
         },
         {
+            "name": "T49 Defender",
+            "id": 31521,
+            "tier": 8,
+            "type": "lt",
+            "status": "premium",
+            "nation": "usa"
+        },
+        {
             "name": "T34",
             "id": 2849,
             "tier": 8,
