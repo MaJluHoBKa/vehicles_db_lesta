@@ -881,6 +881,14 @@
             "nation": "usa"
         },
         {
+            "name": "M103",
+            "id": 9505,
+            "tier": 9,
+            "type": "tt",
+            "status": "default",
+            "nation": "usa"
+        },
+        {
             "name": "M46_CL",
             "id": 25121,
             "tier": 9,
