@@ -1,15 +1,14 @@
 {
-    "tanks": [
-                
+    "tanks": [        
         {
             "name": "30721",
             "id": "СТ-II",
             "tier": 10,
             "type": "tt",
-            "prem": "default",
+            "status": "default",
             "nation": "ussr"
         },
-                {
+        {
             "name": "МС-11",
             "id": 30209,
             "tier": 10,
@@ -137,12 +136,12 @@
             "status": "collect",
             "nation": "ussr"
         },
-               {
+        {
             "name": "Tiger-Maus",
             "id": 28945, 
             "tier": 10,
             "type": "tt",
-            "prem": "collect",
+            "status": "collect",
             "nation": "germany"
         },
         {
@@ -598,7 +597,7 @@
             "id": 18545,
             "tier": 10,
             "type": "st",
-            "prem": "collect",
+            "status": "collect",
             "nation": "lesta"
         },
         {
@@ -702,7 +701,7 @@
             "id": 31745,
             "tier": 9,
             "type": "pt",
-            "prem": "collect",
+            "status": "collect",
             "nation": "ussr"
         },
         {
@@ -710,7 +709,7 @@
             "id": 30977,
             "tier": 9,
             "type": "tt",
-            "prem": "default",
+            "status": "default",
             "nation": "ussr"
         },
         {
@@ -1014,7 +1013,7 @@
             "id": 21568,
             "tier": 9,
             "type": "tt",
-            "prem": "collect",
+            "status": "collect",
             "nation": "france"
         },
         {
@@ -1262,7 +1261,7 @@
             "id": 31233,
             "tier": 8,
             "type": "tt",
-            "prem": "default",
+            "status": "default",
             "nation": "ussr"
         },
         {
@@ -1270,7 +1269,7 @@
             "id": 30465,
             "tier": 8,
             "type": "tt",
-            "prem": "premium",
+            "status": "premium",
             "nation": "ussr"
         },
         {
@@ -1278,7 +1277,7 @@
             "id": 31489,
             "tier": 8,
             "type": "tt",
-            "prem": "premium",
+            "status": "premium",
             "nation": "ussr"
         },
         {
