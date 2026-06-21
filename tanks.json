@@ -1,6 +1,15 @@
 {
     "tanks": [
+                
         {
+            "name": "30721",
+            "id": "СТ-II",
+            "tier": 10,
+            "type": "tt",
+            "prem": "default",
+            "nation": "ussr"
+        },
+                {
             "name": "МС-11",
             "id": 30209,
             "tier": 10,
@@ -127,6 +136,14 @@
             "type": "pt",
             "status": "collect",
             "nation": "ussr"
+        },
+               {
+            "name": "Tiger-Maus",
+            "id": 28945, 
+            "tier": 10,
+            "type": "tt",
+            "prem": "collect",
+            "nation": "germany"
         },
         {
             "name": "E 50 Ausf. M",
@@ -577,6 +594,14 @@
             "nation": "japan"
         },
         {
+            "name": "МБ-85 Бор",
+            "id": 18545,
+            "tier": 10,
+            "type": "st",
+            "prem": "collect",
+            "nation": "lesta"
+        },
+        {
             "name": "МБ-64 Галилей",
             "id": 15473,
             "tier": 10,
@@ -671,6 +696,22 @@
             "type": "pt",
             "status": "default",
             "nation": "poland"
+        },
+        {
+            "name": "ИСУ-152К",
+            "id": 31745,
+            "tier": 9,
+            "type": "pt",
+            "prem": "collect",
+            "nation": "ussr"
+        },
+        {
+            "name": "ИС-3-II",
+            "id": 30977,
+            "tier": 9,
+            "type": "tt",
+            "prem": "default",
+            "nation": "ussr"
         },
         {
             "name": "ИС-8",
@@ -969,6 +1010,14 @@
             "nation": "china"
         },
         {
+            "name": "Lorraine 50t",
+            "id": 21568,
+            "tier": 9,
+            "type": "tt",
+            "prem": "collect",
+            "nation": "france"
+        },
+        {
             "name": "AMX 50 120",
             "id": 3905,
             "tier": 9,
@@ -1168,6 +1217,14 @@
             "status": "default",
             "nation": "sweden"
         },
+         {
+            "name": "ЛВ-915 Кратос",
+            "id": 18801,
+            "tier": 9,
+            "type": "pt",
+            "status": "collect",
+            "nation": "lesta"
+        },
         {
             "name": "Т 55А",
             "id": 3953,
@@ -1199,6 +1256,30 @@
             "type": "st",
             "status": "default",
             "nation": "lesta"
+        },
+         {
+            "name": "ИС-2-II",
+            "id": 31233,
+            "tier": 8,
+            "type": "tt",
+            "prem": "default",
+            "nation": "ussr"
+        },
+        {
+            "name": "Объект 703-II",
+            "id": 30465,
+            "tier": 8,
+            "type": "tt",
+            "prem": "premium",
+            "nation": "ussr"
+        },
+        {
+            "name": "Объект 259А",
+            "id": 31489,
+            "tier": 8,
+            "type": "tt",
+            "prem": "premium",
+            "nation": "ussr"
         },
         {
             "name": "Т-44",
