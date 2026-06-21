@@ -2,7 +2,7 @@
     "tanks": [        
         {
             "name": "СТ-II",
-            "id": "30721",
+            "id": 30721,
             "tier": 10,
             "type": "tt",
             "status": "default",
