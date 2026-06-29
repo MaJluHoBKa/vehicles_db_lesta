@@ -1216,6 +1216,14 @@
             "status": "default",
             "nation": "sweden"
         },
+        {
+            "name": "Hagen",
+            "id": 17777,
+            "tier": 9,
+            "type": "lt",
+            "status": "collect",
+            "nation": "lesta"
+        },
          {
             "name": "ЛВ-915 Кратос",
             "id": 18801,
