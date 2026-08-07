@@ -697,6 +697,14 @@
             "nation": "poland"
         },
         {
+            "name": "К-91-ПТ",
+            "id": 32001,
+            "tier": 9,
+            "type": "pt",
+            "status": "collect",
+            "nation": "ussr"
+        },
+        {
             "name": "ИСУ-152К",
             "id": 31745,
             "tier": 9,
