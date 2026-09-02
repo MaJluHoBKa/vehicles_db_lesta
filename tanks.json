@@ -2433,6 +2433,14 @@
             "nation": "italy"
         },
         {
+            "name": "Vz.59 Dravec",
+            "id": 19329,
+            "tier": 8,
+            "type": "lt",
+            "status": "premium",
+            "nation": "czech"
+        },
+        {
             "name": "TVP VTU",
             "id": 6017,
             "tier": 8,
